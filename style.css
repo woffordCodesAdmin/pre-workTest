@@ -1,0 +1,93 @@
+body {
+  height: 20000px;
+}
+
+.demoContainer {
+  border: solid black;
+  border-width: 0.2px;
+  padding: 1em;
+  margin: 1em;
+}
+.headContainer {
+  border: solid blue;
+  background-color: grey;
+  height: 12vh;
+  margin: 0.5em;
+}
+.footContainer {
+  border: solid blue;
+  margin: 0.5em;
+  display: flex;
+}
+.ft-column {
+  width: 33%;
+  margin: 1em;
+}
+.stmnt {
+  text-align: right;
+  margin: 22px;
+  color: red;
+}
+.navbar {
+  border: solid green;
+  display: flex;
+}
+.ntab {
+  border: solid black;
+  width: 25%;
+  margin: 5px;
+  text-align: center;
+}
+.ntab:hover {
+  border: solid black;
+  width: 25%;
+  margin: 5px;
+  text-align: center;
+  background-color: lightblue;
+}
+.ft-tab {
+  text-align: center;
+  margin: 15px;
+}
+.ft-tab:hover {
+  text-align: center;
+  margin: 15px;
+  color: gray;
+}
+.bodyContainer {
+  border: solid red;
+  margin: 0.5em;
+}
+.prof {
+  height: 250px;
+  border: solid black;
+  margin: 2em;
+  border-radius: 22px;
+}
+.midSole {
+  padding: 2em;
+  border: solid grey;
+  margin: 3em;
+}
+
+.headerContainer {
+  border: solid red;
+  height: 82px;
+  margin:1em;
+  text-align:center;
+  position:fixed;
+  width:100%;
+}
+.contentContainer {
+ 
+  border: solid green;
+  height: 82px;
+  margin:1em;
+  text-align:center;
+}
+.footerContainer {
+  border: solid blue;
+  height: 82px;
+  margin:1em;
+  text-align:center;
+}
